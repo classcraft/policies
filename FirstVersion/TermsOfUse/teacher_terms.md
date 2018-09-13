@@ -40,9 +40,9 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
 	2.4. You shall be responsible for obtaining and maintaining any equipment or ancillary services needed to connect to, access, or otherwise use the Services, including, without limitation, modems, hardware, software, projection equipment, internet access and telephone service, and shall be responsible for ensuring that such equipment or ancillary services are compatible with the Services.
 
 3. Scope of License
-	3.1. You are authorized under this Agreement to use the Services for Licensed Classes only.
-	3.2. You are licensed to access the Services from a maximum of two devices simultaneously.
-	3.3. You agree not to allow others to use your Teacher User ID for classes other than the Licensed Classes covered by this agreement.
+   3.1. You are authorized under this Agreement to use the Services for Licensed Classes only.
+   3.2. You are licensed to access the Services from a maximum of two devices simultaneously.
+   3.3. You agree not to allow others to use your Teacher User ID for classes other than the Licensed Classes covered by this agreement.
 	
 4. Your Role
 
