@@ -7,8 +7,9 @@ Please read these terms of use carefully before using the Services (as herein de
 You represent and warrant to Classcraft that (i) you are an individual and not a corporation; (ii) you are of legal age to form a binding contract; (iii) you are a teacher in a classroom setting and that all registration information you submit is accurate and truthful; (iv) you will maintain the accuracy of such information; (v) if you are accepting this Agreement on behalf of an institution, company or other legal entity, you have the authority to bind that institution, company or legal entity to this Agreement. You also certify that you are legally permitted to use and access the Services and take full responsibility for the selection and use of and access to the Services. This Agreement is void where prohibited by law, and the right to access the Services is revoked in such jurisdictions.
 
 **1. Definitions**
-	As used in this Agreement the following terms shall have the following definitions regardless whether used in their singular or plural form:  
-	1.1 "Agreement" shall mean this Teacher License Agreement;  
+
+   As used in this Agreement the following terms shall have the following definitions regardless whether used in their singular or plural form:  
+   1.1 "Agreement" shall mean this Teacher License Agreement;  
    1.2 "Consent" shall mean advance written consent from all parents whose children will be accessing the Services;  
    1.3 "Content" shall mean all materials displayed or performed as part of the Services, including but not limited to text, graphics, articles, photographs, images, videos, animations, illustrations, music, sound effects;  
    1.4 "COPPA" shall have the meaning ascribed to it in paragraph 4.1.;  
