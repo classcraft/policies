@@ -8,7 +8,7 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
 
 **1. Definitions**
 
-+ As used in this Agreement the following terms shall have the following definitions regardless whether used in their singular or plural form:  
+[tab][space]As used in this Agreement the following terms shall have the following definitions regardless whether used in their singular or plural form:  
    1.1 "Agreement" shall mean this Teacher License Agreement;  
    1.2 "Consent" shall mean advance written consent from all parents whose children will be accessing the Services;  
    1.3 "Content" shall mean all materials displayed or performed as part of the Services, including but not limited to text, graphics, articles, photographs, images, videos, animations, illustrations, music, sound effects;  
