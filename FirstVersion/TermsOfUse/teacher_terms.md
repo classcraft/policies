@@ -28,6 +28,6 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
 	1.14 "Privacy Policy" shall mean Classcraft’s current Privacy Policy, which can be consulted at  [http://www.classcraft.com/privacy-policy](http://www.classcraft.com/privacy-policy), as amended, supplemented, restated and/or updated from time to time;  
 	1.15 "Services" shall mean the Website and domain name, all other websites and domain names affiliated with Classcraft and any other linked pages, features, content or application services offered from time to time by Classcraft, and shall include, without limitation, any service Classcraft performs for you and the Content offered by Classcraft on the Website, via the iOS app, the Android app or any other platform;  
 	1.16  "Student Terms of Service" shall mean Classcraft’s current Student Terms of Service, which can be consulted at  [http://www.classcraft.com/student-terms-of-service](http://www.classcraft.com/student-terms-of-service), as amended, supplemented, restated and/or updated from time to time;  
-	1.17 "Teacher User ID" shall mean a password and user name for the use of the Services; 
-	1.18 "User Submissions" shall mean information or Content posted by yourself or the students in the Licensed Class via the Website, iOS app, Android app or otherwise provided to Classcraft in connection with the Services; and 
+	1.17 "Teacher User ID" shall mean a password and user name for the use of the Services;  
+	1.18 "User Submissions" shall mean information or Content posted by yourself or the students in the Licensed Class via the Website, iOS app, Android app or otherwise provided to Classcraft in connection with the Services; and . 
 	1.19 "Website" shall mean the classcraft.com website.
