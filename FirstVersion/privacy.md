@@ -20,8 +20,9 @@ It is understood that the teacher is both the game master and the teacher and th
 
 Classcraft has taken all precautions to make sure that this data will not be shared outside the School Environment except as outlined in this Privacy Policy.
 
-## Collected Information**
+## Collected Information
 **Personal Information**
+
 Classcraft collects personal information for the following purposes:
 
 - Logging in to the application;
@@ -76,6 +77,7 @@ Classcraft does not collect the following data:
 - User’s contact lists or friends lists.
 
 **Cookies**
+
 Cookies are small data files that are commonly stored on your device when you use websites and on-line services. They are widely used to make websites work, or to work more efficiently, as well as to provide reporting information and assist with services or personalization. There are also other technologies that are similar to cookies, which may store small amount of data on your device ("local storage").
 
 Classcraft uses the following types of cookies and local storage (collectively called "Cookies" herein):
