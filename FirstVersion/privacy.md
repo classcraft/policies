@@ -1,4 +1,4 @@
-###Privacy Policy
+##Privacy Policy##
 
 Classcraft Studios Inc. ("Classcraft") takes the privacy of its students, teachers and parents seriously. Classcraft is committed to protecting users’ privacy while providing a personalized and valuable learning experience.
 
@@ -6,7 +6,7 @@ Classcraft has taken the Student Privacy Pledge as a public commitment for the r
 
 Classcraft has developed this Privacy Policy to let users know in general terms about Classcraft’s personal information management practices, including what personal information is collected and how it is processed and used. If users have any questions about our Privacy Policy they may contact Classcraft at support@classcraft.com.
 
-**The School Environment**
+###The School Environment###
 
 As Classcraft is designed to be played in groups, much of the information collected about the teachers and students is intended to be shared. Classcraft stores the following information that the teacher and students may choose to share with their class, colleagues or school administration:
 
@@ -24,6 +24,7 @@ Classcraft has taken all precautions to make sure that this data will not be sha
 **Collected Information**
 
 **Personal Information**
+
 Classcraft collects personal information for the following purposes:
 
 - Logging in to the application;
@@ -78,6 +79,7 @@ Classcraft does not collect the following data:
 - User’s contact lists or friends lists.
 
 **Cookies**
+
 Cookies are small data files that are commonly stored on your device when you use websites and on-line services. They are widely used to make websites work, or to work more efficiently, as well as to provide reporting information and assist with services or personalization. There are also other technologies that are similar to cookies, which may store small amount of data on your device ("local storage").
 
 Classcraft uses the following types of cookies and local storage (collectively called "Cookies" herein):
