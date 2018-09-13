@@ -1,5 +1,3 @@
-
-
 This Teacher License Agreement is a legal agreement between you, the teacher, together with Classcraft Studios Inc. ("Classcraft"), having its head office at Suite 220 -- 165 rue Wellington Nord, Sherbrooke, Québec, J1H 5B9.
 
 Please read these terms of use carefully before using the Services (as herein defined) offered by Classcraft, which owns and operates the Website (as herein defined). By registering to use the Services in any manner, you agree that you have read and agree to be bound by and a party to the terms and conditions of this Agreement to the exclusion of all other terms. If you do not unconditionally agree to all the terms and conditions of the Agreement (as herein defined), you have no right to access or use the Services. Use of Services is expressly conditioned upon your assent to all the terms and conditions of this Agreement, to the exclusion of all other terms. If the terms of this Agreement are considered an offer, acceptance is expressly limited to such terms.
@@ -9,9 +7,9 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
 1.  Definitions
 
     As used in this Agreement the following terms shall have the following definitions regardless whether used in their singular or plural form:
-    
-    1.1  "Agreement" shall mean this Teacher License Agreement;  
-    1.2  "Consent" shall mean advance written consent from all parents whose children will be accessing the Services;
+
+    1.  "Agreement" shall mean this Teacher License Agreement;
+    2.  "Consent" shall mean advance written consent from all parents whose children will be accessing the Services;
     3.  "Content" shall mean all materials displayed or performed as part of the Services, including but not limited to text, graphics, articles, photographs, images, videos, animations, illustrations, music, sound effects;
     4.  "COPPA" shall have the meaning ascribed to it in paragraph 4.1.;
     5.  "Game Master" shall mean yourself, as manager of all aspects of the Services within the Licensed Class;
@@ -45,9 +43,9 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
     3.  You agree not to allow others to use your Teacher User ID for classes other than the Licensed Classes covered by this agreement.
 4.  Your Role
 
-    1.1  Role as Teacher
+    1.  Role as Teacher
 
-        1.1.1  You acknowledge that as a teacher you will be responsible for granting access to the Services to the students in the Licensed Classes and their Parents. You agree that access to the Services will not be granted outside yourself, the students in the Licensed Class, their Parents and the administration of the school you are employed by (if applicable).
+        1.  You acknowledge that as a teacher you will be responsible for granting access to the Services to the students in the Licensed Classes and their Parents. You agree that access to the Services will not be granted outside yourself, the students in the Licensed Class, their Parents and the administration of the school you are employed by (if applicable).
         2.  You acknowledge and agree to supervise students' access to the Services in order to ensure that the Services will be used in accordance with the Student Terms of Service at <http://www.classcraft.com/student-terms-of-service>.
         3.  Classcraft recommends that you print a copy of the Student Terms of Service and a copy of the Privacy Policy at <http://www.classcraft.com/privacy-policy> for each minor student to bring to their parent(s) or guardian(s).
         4.  If you are teaching in the United States of America, you represent and warrant that you are solely responsible for complying with the Child Online Privacy Protection Act ("COPPA"), which requires parental consent for online collection of personal information from children under 13. When obtaining Consent, you must provide parents with a copy of our [Privacy Policy](http://www.classcraft.com/privacy-policy). You must keep signed Consents on file and provide them to Classcraft upon our request. For more information on COPPA, please see <https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy>. A sample consent form can be found at <https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA>.
@@ -109,7 +107,7 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
     4.  Classcraft reserves the right to change its price list for certain Services and to institute new charges at any time, upon notice to you, which may be sent by email or posted on the Website. If you continue to use those Services following such notification, that use constitutes your acceptance of any new or increased charges.
     5.  You have chosen one of the following Payment Plans:
 
-        1.1.1  Annual: Pre-payment is made in advance for a full year. When making your initial payment, you authorize Classcraft to charge you an annual license fee at the then current rate to your Payment Method. You acknowledge that the amount billed each year may vary for reasons such as promotional offers, referral rewards and/or changing your Payment Plan and you authorize us to charge your Payment Method for such amounts, which may be billed in one or more charges. You will be notified by email before the expiration of your pre-payment so that you can cancel your subscription if you wish not to be billed for the next year.
+        1.  Annual: Pre-payment is made in advance for a full year. When making your initial payment, you authorize Classcraft to charge you an annual license fee at the then current rate to your Payment Method. You acknowledge that the amount billed each year may vary for reasons such as promotional offers, referral rewards and/or changing your Payment Plan and you authorize us to charge your Payment Method for such amounts, which may be billed in one or more charges. You will be notified by email before the expiration of your pre-payment so that you can cancel your subscription if you wish not to be billed for the next year.
         2.  Monthly: Prepayment is made in advance for one month. When making your initial payment, you authorize Classcraft to charge you a monthly license fee at the then current rate to your Payment Method. You acknowledge that the amount billed each month may vary from month to month for reasons such as promotional offers, referral rewards and/or changing your Payment Plan and you authorize us to charge your Payment Method for such amounts, which may be billed in one or more charges.
         3.  Paid by school or district: If your school or district has prepaid for your subscription, you will be presented with this as an option when you upgrade to Premium. In this instance, the payment, any renewals and the expiration of your subscription will be managed by your school or district.
     6.  Classcraft reserves the right to adjust pricing for our service or any components thereof at any time as may be determined in our sole and absolute discretion. You will be advised of any price changes in advance by email.
