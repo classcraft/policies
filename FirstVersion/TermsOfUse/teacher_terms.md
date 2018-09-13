@@ -46,3 +46,22 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
 	3.3  You agree not to allow others to use your Teacher User ID for classes other than the Licensed Classes covered by this agreement.
 
 4.  Your Role
+
+	4.1  Role as Teacher 
+	
+		4.1.1  You acknowledge that as a teacher you will be responsible for granting access to the Services to the students in the Licensed Classes and their Parents. You agree that access to the Services will not be granted outside yourself, the students in the Licensed Class, their Parents and the administration of the school you are employed by (if applicable).  
+		4.1.2  You acknowledge and agree to supervise students’ access to the Services in order to ensure that the Services will be used in accordance with the Student Terms of Service at  [http://www.classcraft.com/student-terms-of-service](http://www.classcraft.com/student-terms-of-service).  
+		4.1.3  Classcraft recommends that you print a copy of the Student Terms of Service and a copy of the Privacy Policy at  [http://www.classcraft.com/privacy-policy](http://www.classcraft.com/privacy-policy)  for each minor student to bring to their parent(s) or guardian(s).  
+		4.1.4  If you are teaching in the United States of America, you represent and warrant that you are solely responsible for complying with the Child Online Privacy Protection Act ("COPPA"), which requires parental consent for online collection of personal information from children under 13. When obtaining Consent, you must provide parents with a copy of our  [Privacy Policy](http://www.classcraft.com/privacy-policy). You must keep signed Consents on file and provide them to Classcraft upon our request. For more information on COPPA, please see  [https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy). A sample consent form can be found at  [https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA](https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA).  
+		4.1.5  As a teacher, you are responsible to monitor and manage all Items Posted. Classcraft does not monitor or manage Items Posted and is not responsible for Items Posted. You accept sole responsibility to ensure that Items Posted meet the following guidelines:
+            
+            -   Items Posted must not include any communication or solicitation designed or intended to obtain password, account or private information from any user of the Services.
+            -   Items Posted must not include any illegal material, including any material that may be considered threatening or obscene.
+            -   Items Posted must not include any software or software code that may be executed from within the Services.  
+	    4.1.6  As a teacher, you are responsible for issuing invitations to participate in the Services to Parents, thereby giving them access to the student information for their child, children or any minor for whom they are legally responsible. You agree that you will not issue such invitations to anyone other than the Parents of your students as defined in this agreement. You acknowledge that these invitations are designed to grant access to the personal information of the related student(s), and that failure to comply with this section will be a breach of the Classcraft Privacy Policy and may result in termination of this agreement.  
+	    4.1.7  As a teacher, you have the option to use the Multi-class Features allowing other teachers who teach the same students to link their Licensed Classes to the student accounts in your Licensed Classes. You agree that you will only use this feature with teachers teaching at the same school as you.
+
+	4.2  Role as Game Master
+        
+		4.2.1  You acknowledge that you are the Game Master. This responsibility includes all customizable features, all awarding of either positive or negative consequences, and all in-class and online dialogue and communication of any sort between students and teachers.  
+		4.2.2  You agree that you will execute your role as Game Master in a diligent, fair and equitable manner without misuse or abuse of the power of the Game Master. Classcraft reserves the right to terminate the license of any teacher who Classcraft determines has misused or abused this power. Classcraft shall have complete and final authority in this matter.
