@@ -1,3 +1,5 @@
+# Teacher License Agreement
+
 This Teacher License Agreement is a legal agreement between you, the teacher, together with Classcraft Studios Inc. ("Classcraft"), having its head office at Suite 220 -- 165 rue Wellington Nord, Sherbrooke, Québec, J1H 5B9.
 
 Please read these terms of use carefully before using the Services (as herein defined) offered by Classcraft, which owns and operates the Website (as herein defined). By registering to use the Services in any manner, you agree that you have read and agree to be bound by and a party to the terms and conditions of this Agreement to the exclusion of all other terms. If you do not unconditionally agree to all the terms and conditions of the Agreement (as herein defined), you have no right to access or use the Services. Use of Services is expressly conditioned upon your assent to all the terms and conditions of this Agreement, to the exclusion of all other terms. If the terms of this Agreement are considered an offer, acceptance is expressly limited to such terms.
