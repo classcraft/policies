@@ -8,13 +8,13 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
 
 1. Definitions
 
-	As used in this Agreement the following terms shall have the following definitions regardless whether used in their singular or plural form:
+   As used in this Agreement the following terms shall have the following definitions regardless whether used in their singular or plural form:
 
-	1.1. "Agreement" shall mean this Teacher License Agreement;
-	1.2. "Consent" shall mean advance written consent from all parents whose children will be accessing the Services;
-	1.3. "Content" shall mean all materials displayed or performed as part of the Services, including but not limited to text, graphics, articles, photographs, images, videos, animations, illustrations, music, sound effects;
-	1.4. "COPPA" shall have the meaning ascribed to it in paragraph 4.1.;
-	1.5. "Game Master" shall mean yourself, as manager of all aspects of the Services within the Licensed Class;
+   1.1. "Agreement" shall mean this Teacher License Agreement;
+   1.2. "Consent" shall mean advance written consent from all parents whose children will be accessing the Services;
+   1.3. "Content" shall mean all materials displayed or performed as part of the Services, including but not limited to text, graphics, articles, photographs, images, videos, animations, illustrations, music, sound effects;
+   1.4. "COPPA" shall have the meaning ascribed to it in paragraph 4.1.;
+   1.5. "Game Master" shall mean yourself, as manager of all aspects of the Services within the Licensed Class;
 	1.6. "Input" shall mean any input provided by you regarding the Services, including, but not limited to, any powers, functions or features assigned to characters or any events used to win or lose points;
 	1.7. "Items Posted" shall mean all items posted within the Services by yourself and the students in the Licensed Class;
 	1.8. "Licensed Class" shall mean one set of course materials taught to one group of students at the same time in the school indicated in the teacher registration process or, if modified, in the teacher profile, over a period not exceeding twelve months, by the teacher signing this agreement. This license does not extend to any classes not personally taught in whole or in part by the teacher signing this agreement at the school they have indicated;
