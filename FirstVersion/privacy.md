@@ -10,12 +10,12 @@ Classcraft has developed this Privacy Policy to let users know in general terms 
 
 As Classcraft is designed to be played in groups, much of the information collected about the teachers and students is intended to be shared. Classcraft stores the following information that the teacher and students may choose to share with their class, colleagues or school administration:
 
--Student or teacher’s name;
--Student or teacher’s email address;
--Student or teacher’s game activities;
--School and class information;
--Teacher-generated content (for example: posts, assignments, quizzes, etc.);
--Messages and comments within the game.
+- Student or teacher’s name;
+- Student or teacher’s email address;
+- Student or teacher’s game activities;
+- School and class information;
+- Teacher-generated content (for example: posts, assignments, quizzes, etc.);
+- Messages and comments within the game.
 
 It is understood that the teacher is both the game master and the teacher and that game related or class related activities, information or communications may be visible to teachers, students and others who are physically in the classroom. Furthermore, some information will be available to other teachers and school or district administrations (see "Classcraft User Access Privileges" below). Collectively, the classroom, teachers, and school and district administration are referred to in the document as the School Environment. The sharing of the above information is therefore also subject to the privacy policies of the relevant educational institutions. If users have any questions about the sharing of this information Classcraft would recommend that users contact the relevant educational institutions.
 
@@ -23,61 +23,61 @@ Classcraft has taken all precautions to make sure that this data will not be sha
 
 **Collected Information**
 
-***Personal Information***
+**Personal Information**
 Classcraft collects personal information for the following purposes:
 
--Logging in to the application;
--Sales and invoicing;
--Operating the game;
--Communicating within the game;
--Handing-in assignments and completing tasks within the application;
--Participating in teacher forums;
--Contacting customer support;
--Marketing and understanding user behavior (teachers and parents only).
+- Logging in to the application;
+- Sales and invoicing;
+- Operating the game;
+- Communicating within the game;
+- Handing-in assignments and completing tasks within the application;
+- Participating in teacher forums;
+- Contacting customer support;
+- Marketing and understanding user behavior (teachers and parents only).
 
-The information collected for ***TEACHER*** accounts may include:
+The information collected for **TEACHER** accounts may include:
 
--Email address;
--Shipping and billing address;
--Referral data should teachers refer Classcraft to other teachers;
--Browser and device types;
--School and class information;
--Purchase and payment details;
--Game play data;
--Teacher-generated content (for example: posts, assignments, quizzes, etc.);
--Messages and comments within the game;
--Connected teacher accounts if the teacher is connecting to other teachers;
--Assignment grades;
--User activity (for example: logins, pages viewed, account setup steps completed, etc.).
+- Email address;
+- Shipping and billing address;
+- Referral data should teachers refer Classcraft to other teachers;
+- Browser and device types;
+- School and class information;
+- Purchase and payment details;
+- Game play data;
+- Teacher-generated content (for example: posts, assignments, quizzes, etc.);
+- Messages and comments within the game;
+- Connected teacher accounts if the teacher is connecting to other teachers;
+- Assignment grades;
+- User activity (for example: logins, pages viewed, account setup steps completed, etc.).
 
-The information collected for ***PARENT*** accounts may include:
+The information collected for **PARENT** accounts may include:
 
--Email address;
--Shipping and billing address;
--Browser and device types;
--Purchase and payment details;
--Game play data;
--Messages within the game;
--User activity (for example: logins, pages viewed, account setup steps completed, etc.).
+- Email address;
+- Shipping and billing address;
+- Browser and device types;
+- Purchase and payment details;
+- Game play data;
+- Messages within the game;
+- User activity (for example: logins, pages viewed, account setup steps completed, etc.).
 
-The information collected for STUDENT accounts is limited to:
+The information collected for **STUDENT** accounts is limited to:
 
--Username (this is optional, if the teacher so chooses);
--Email addresses (this is optional, if the teacher so chooses);
--First and last name (this is optional, if the teacher so chooses);
--Associated classes, teachers and parents;
--Game play data (for example: awarding or removing of XP, AP, HP, GP, customization of their avatars and the use of powers in the game, training of pets, etc.);
--Assignment grades (this is optional, if the teacher so chooses);
--Messages and comments within the game;
--Student-generated content (for example: assignments, quiz answers, etc.).
+- Username (this is optional, if the teacher so chooses);
+- Email addresses (this is optional, if the teacher so chooses);
+- First and last name (this is optional, if the teacher so chooses);
+- Associated classes, teachers and parents;
+- Game play data (for example: awarding or removing of XP, AP, HP, GP, customization of their avatars and the use of powers in the game, training of pets, etc.);
+- Assignment grades (this is optional, if the teacher so chooses);
+- Messages and comments within the game;
+- Student-generated content (for example: assignments, quiz answers, etc.).
 
 Classcraft does not collect the following data:
 
--Physiological biometric data;
--Information on free or reduced lunch status;
--User’s contact lists or friends lists.
+- Physiological biometric data;
+- Information on free or reduced lunch status;
+- User’s contact lists or friends lists.
 
-***Cookies***
+**Cookies**
 Cookies are small data files that are commonly stored on your device when you use websites and on-line services. They are widely used to make websites work, or to work more efficiently, as well as to provide reporting information and assist with services or personalization. There are also other technologies that are similar to cookies, which may store small amount of data on your device ("local storage").
 
 Classcraft uses the following types of cookies and local storage (collectively called "Cookies" herein):
@@ -86,7 +86,8 @@ Performance and functionality Cookies: These Cookies are not essential, but help
 Advertising Cookies: These Cookies use information about your visit, such as the pages you visit, your use of our services or your response to ads and emails so that we can deliver a user experience that is more relevant to you. Advertising cookies are NEVER used for targeting of advertisements to students.
 If you wish to disable the use of Cookies, you may do so from your browser preferences menu of your browser software by either turning off Cookies or by using your browser’s privacy mode when using our services.
 
-What Does Classcraft Do With the Collected Information?
+**What Does Classcraft Do With the Collected Information?**
+
 Collected information is used for the following purposes:
 
 To allow the teacher to manage and play the game;
