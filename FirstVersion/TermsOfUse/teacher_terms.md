@@ -9,7 +9,7 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
 1. Definitions
    - "Agreement" shall mean this Teacher License Agreement;
    - "Consent" shall mean advance written consent from all parents whose children will be accessing the Services;
-   1. "Content" shall mean all materials displayed or performed as part of the Services, including but not limited to text, graphics, articles, photographs, images, videos, animations, illustrations, music, sound effects;
+ 1.1. "Content" shall mean all materials displayed or performed as part of the Services, including but not limited to text, graphics, articles, photographs, images, videos, animations, illustrations, music, sound effects;
    2. "COPPA" shall have the meaning ascribed to it in paragraph 4.1.;
    1.5. "Game Master" shall mean yourself, as manager of all aspects of the Services within the Licensed Class;
 	1.6. "Input" shall mean any input provided by you regarding the Services, including, but not limited to, any powers, functions or features assigned to characters or any events used to win or lose points;
