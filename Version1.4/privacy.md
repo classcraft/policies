@@ -201,7 +201,7 @@ Rights of users located in Quebec are governed by the Act Respecting the Protect
 Security Policy
 ---------------
 
-Classcraft uses industry standard methods to protect its customer's data against unauthorized use or access, alteration, unlawful or accidental destruction or loss. It should however be noted that 100% guarantee cannot be made due to constant advances in virus and hacking technology. Classcraft can therefore not be held responsible for data loss or alteration. A full copy of the Classcraft Security Policy can be obtained upon request to <support@classcraft.com>.
+Classcraft uses industry standard methods to protect its customer's data against unauthorized use or access, alteration, unlawful or accidental destruction or loss. It should however be noted that 100% guarantee cannot be made due to constant advances in virus and hacking technology. Classcraft can therefore not be held responsible for data loss or alteration. A full copy of the Classcraft Security Policy can be obtained upon request to <wecare@classcraft.com>.
 
 Links and Third Party Integration
 ---------------------------------
