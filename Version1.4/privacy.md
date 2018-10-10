@@ -2,7 +2,7 @@
 
 Classcraft Studios Inc. ("Classcraft") takes the privacy of its students, teachers and parents seriously. Classcraft is committed to protecting users' privacy while providing a personalized and valuable learning experience.
 
-Classcraft has taken the [Student Privacy Pledge](https://studentprivacypledge.org/) as a public commitment for the responsible collection and use of student data. Among other things, we have committed to only collect student information that is needed for authorized education/school purposes, or as authorized by the parent/student, to not sell student personal information, to not use student information for behavioral targeting of advertisements to students and to not retain student personal information beyond the time period required to support the authorized educational/school purposes. The complete Student Privacy Pledge can be read at [studentprivacypledge.org](https://studentprivacypledge.org/).
+Classcraft has taken the Student Privacy Pledge as a public commitment for the responsible collection and use of student data. Among other things, we have committed to only collect student information that is needed for authorized education/school purposes, or as authorized by the parent/student, to not sell student personal information, to not use student information for behavioral targeting of advertisements to students and to not retain student personal information beyond the time period required to support the authorized educational/school purposes. The complete Student Privacy Pledge can be read at [studentprivacypledge.org](https://studentprivacypledge.org/).
 
 Classcraft has developed this Privacy Policy to let users know in general terms about Classcraft's personal information management practices, including what personal information is collected and how it is processed and used. If users have any questions about our Privacy Policy they may contact Classcraft at <wecare@classcraft.com>.
 
@@ -37,9 +37,9 @@ Classcraft collects personal information for the following purposes:
 -   Participating in teacher forums;
 -   Contacting customer support;
 -   Marketing and understanding user behavior (teachers and parents only);
--   IP addresses for messages and comments (only tracked upon the resquest of the school administration and only for security purposes)
+-   IP addresses for messages and comments (only tracked upon the request of the school administration and only for security purposes)
 
-The information collected for TEACHER accounts may include:
+The information collected for TEACHER accounts may include:
 
 -   Email address;
 -   Shipping and billing address;
@@ -54,7 +54,7 @@ The information collected for TEACHER accounts may include:
 -   Assignment grades;
 -   User activity (for example: logins, pages viewed, account setup steps completed, etc.).
 
-The information collected for PARENT accounts may include:
+The information collected for PARENT accounts may include:
 
 -   Email address;
 -   Shipping and billing address;
@@ -64,7 +64,7 @@ The information collected for PARENT accounts may include:
 -   Messages within the game;
 -   User activity (for example: logins, pages viewed, account setup steps completed, etc.).
 
-The information collected for STUDENT accounts is limited to:
+The information collected for STUDENT accounts is limited to:
 
 -   Username (this is optional, if the teacher so chooses);
 -   Email addresses (this is optional, if the teacher so chooses);
@@ -73,10 +73,9 @@ The information collected for STUDENT accounts is limited to:
 -   Game play data (for example: awarding or removing of XP, AP, HP, GP, customization of their avatars and the use of powers in the game, training of pets, etc.);
 -   Assignment grades (this is optional, if the teacher so chooses);
 -   Messages and comments within the game;
--   Student-generated content (for example: assignments, quiz answers, etc.);
--   Student birthdate (used for statistical purpose only)
+-   Student-generated content (for example: assignments, quiz answers, etc.).
 
-The information collected for visitors to the public site [www.classcraft.com](http://localhost:3300/privacy-policy/www.classcraft.com) include:
+The information collected for visitors to the public site [www.classcraft.com](https://website-production-awimtfzgzd.now.sh/privacy-policy/www.classcraft.com) may include:
 
 -   Page views;
 -   Links clicked;
@@ -93,10 +92,10 @@ Classcraft does not collect the following data:
 
 Cookies are small data files that are commonly stored on your device when you use websites and on-line services. They are widely used to make websites work, or to work more efficiently, as well as to provide reporting information and assist with services or personalization. There are also other technologies that are similar to cookies, which may store small amount of data on your device ("local storage").
 
-Classcraft uses the following types of cookies and local storage (collectively called "Cookies" herein):
+Classcraft uses the following types of cookies and local storage (collectively called "Cookies" herein);
 
--   *Performance and functionality Cookies*: These Cookies are not essential, but help us to personalize and enhance your user experience. For example, they may help us to remember your preferences and prevent you from needing to re-enter information more than once, or to remember your id and password so that you do not have to enter them each time you use our services.
--   *Advertising Cookies*: These Cookies use information about your visit, such as the pages you visit, your use of our services or your response to ads and emails so that we can deliver a user experience that is more relevant to you. Advertising cookies are NEVER used for targeting of advertisements to students.
+-   Performance and functionality Cookies: These Cookies are not essential, but help us to personalize and enhance your user experience. For example, they may help us to remember your preferences and prevent you from needing to re-enter information more than once, or to remember your id and password so that you do not have to enter them each time you use our services.
+-   Advertising Cookies: These Cookies use information about your visit, such as the pages you visit, your use of our services or your response to ads and emails so that we can deliver a user experience that is more relevant to you. Advertising cookies are NEVER used for targeting of advertisements to students.
 
 If you wish to disable the use of Cookies, you may do so from your browser preferences menu of your browser software by either turning off Cookies or by using your browser's privacy mode when using our services.
 
@@ -132,7 +131,7 @@ Collected information in aggregate form, whereby individual users are not identi
 Classcraft User Access Privileges
 ---------------------------------
 
-Teachers are granted access to student data for the students in their classes and to parent data for the students in their classes. With the multiclass option, teachers from the same school can see the name, username and character class of students who are in classes that are linked to theirs, but do not have access to other student information outside of their own class. The school administrators may also have access to this data.
+Teachers are granted access to student data for the students in their classes and to parent data for the students in their classes. With the Multi-class option, teachers from the same school can see the name, username and character class of students who are in classes that are linked to theirs, but do not have access to other student information outside of their own class. The school administrators may also have access to this data.
 
 Students are granted access to their personal data, their team game play data, all content posted by their teacher in the classroom content system, comments of other students in the classroom content system, as well as any data that is displayed by the teacher in front of the whole class. By default, students can see game events for other students in their class from within their account. The teacher can restrain the information visible to other students: on a per class basis, they can hide the reasons for gaining and losing points and also limit visibility to a student's teammates only (for the purpose of being able to play the game).
 
@@ -143,7 +142,7 @@ Postings in the teacher forums include the teacher name and photo and are availa
 Student Records
 ---------------
 
-Student records are the property of and under the control of the school and/or school district. Students can access their student records by logging in to their student account. Parents of students under the age of 18 can access their child's information via the parent account, by logging in using their child's account, by contacting the teacher or by contacting Classcraft at <wecare@classcraft.com>. Corrections of any erroneous information should first be brought to the attention of the teacher or the school administration. In the event that the teacher or school are unable to make the correction, parents should advise Classcraft at <wecare@classcraft.com>, who will then work with the teacher or school to facilitate correction of any erroneous information.
+Student records are the property of and under the control of the school and/or school district. Students can access their student records by logging in to their student account. Parents of students under the age of 18 can access their child's information via the parent account, by logging in using their child's account, by contacting the teacher or by contacting Classcraft at <wecare@classcraft.com>. Corrections of any erroneous information should first be brought to the attention of the teacher or the school administration. In the event that the teacher or school are unable to make the correction, parents should advise Classcraft at <wecare@classcraft.com> who will then work with the teacher or school to facilitate correction of any erroneous information.
 
 Third parties are not granted access to personally identifiable information or educational records or other student records except as provided in this Privacy Policy, or after first obtaining the express written consent of the parent or student over 18 years of age.
 
@@ -164,7 +163,9 @@ The following student records are retained for a period of no more than 12 month
 -   Student assignments and all comments and posts by the student in the classroom content system; and
 -   Any other student information that may not be used by the student in future years.
 
-Student avatars and pets, along with the student account information are retained for a period of no more than 36 months following the last entry made to the student account in the game. This is because students playing Classcraft in subsequent years will still have access to their avatars and pets during those future classes, to a maximum of 36 months. Parents and students over the age of 18 can request to have their account, or the account of their child, and related information deleted from the Classcraft database by advising Classcraft at <wecare@classcraft.com>.
+Student avatars and pets, along with the student account information are retained for a period of no more than 36 months following the last entry made to the student account in the game. This is because students playing Classcraft in subsequent years will still have access to their avatars and pets during those future classes, to a maximum of 36 months.
+
+Parents and students over the age of 18 can request to have their account, or the account of their child, and related information deleted from the Classcraft database by advising Classcraft at <wecare@classcraft.com>.
 
 Deletion of Parent and Teacher Records
 --------------------------------------
@@ -173,7 +174,7 @@ Parent records will be retained for a period of no more than 36 months following
 
 Personal data of teachers and any data not already deleted that is related to a teacher's classes will be deleted 5 years after their account has become inactive.
 
-Regional Complaince
+Regional Compliance
 -------------------
 
 ##### 1\. United States of America
@@ -182,21 +183,21 @@ Regional Complaince
 
 FERPA is an acronym for the Family Education Rights and Privacy Act, a US federal law to protect the privacy of student educational records. While this act is primarily directed towards educational institutions, Classcraft's privacy policy is designed to secure student data in compliance with FERPA and to allow education institutions using Classcraft to be compliant with FERPA.
 
-### COPA
+### COPPA
 
 COPPA is an acronym for the Child Online Privacy Protection Act, a US federal law to protect the privacy of children under the age of 13. Under the licensing agreement between Classcraft and the teachers using the Classcraft software, the teachers are responsible for obtaining parental permission should it be required under COPPA. Classcraft does provide information for teachers along with a sample parental permission document should they require one. This is available at <https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA>.
 
 ##### 2\. European Union
 
-Since May 24, 2018, the European Union General Data Protection Regulation (GDPR) defines the rules regarding the collection, use, and retention of personal information for citizens of the European Union. Classcraft is fully compliant with thse rules.
+Since May 24, 2018, the European Union General Data Protection Regulation (GDPR) defines the rules regarding the collection, use, and retention of personal information for citizens of the European Union. Classcraft is fully compliant with these rules.
 
-The European Commision has rules that commecrcial entities in Canada have adequacy under the GDPR, or already provide adequate data security. For an updated listing of countrie where data security is considered adequate, please visit the [European Commission's website](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
+The European Commision has ruled that commercial entities in Canada have adequacy under the GDPR, or already provide adequate data security. For an updated listing of countries where data security is considered adequate, please visit the [European Commission's website](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
 
 Classcraft only conducts business with third-party data processors in the United States that are certified under the [Privacy Shield Framework](https://www.privacyshield.gov/welcome), which ensures compliance with EU data protection requirements so that personal data stays secure and respected.
 
 ##### 3\. Quebec
 
-Rights of users located in Quebec are governed by the Act Respecting the Protection of Personnal Information in the Private Sector. Individual files can be accessed and modified using your user login and password, or by following the instructions in the section of the document titled "Changes to and Access to Personnal Information". Classcraft offices are at #220 - 165 Wellington. N, Sherbrooke, QC, J1H 5B9. Data is stored on Amazon services in the United States and Classcraft abides by article 17 of the Act with respect to the use of personnal information.
+Rights of users located in Quebec are governed by the Act Respecting the Protection of Personal Information in the Private Sector. Individual files can be accessed and modified using your user login and password, or by following the instructions in the section of the document titled "Changes to and Access to Personal Information". Classcraft offices are at #220 - 165 Wellington. N, Sherbrooke, QC, J1H 5B9. Data is stored on Amazon servers in the United States and Classcraft abides by article 17 of the Act with respect to the use of personal information.
 
 Security Policy
 ---------------
@@ -243,7 +244,7 @@ In the unlikely event that Classcraft goes out of business, all user information
 Disclosure of Information to Satisfy Legal Obligations
 ------------------------------------------------------
 
-Classcraft may disclose personal information if we have a good faith belief that doing so is necessary to comply with the law, such as complying with a subpoena or other legal process. We may need to disclose personal information where, in good faith, we think it is necessary to to protect the rights, property, or safety of Classcraft, our employees, our community, or others, or to prevent violations of our our Terms of Service or other agreements. This includes, without limitation, exchanging information with other companies and organizations for fraud protection or responding to government requests.
+Classcraft may disclose personal information if we have a good faith belief that doing so is necessary to comply with the law, such as complying with a subpoena or other legal process. We may need to disclose personal information where, in good faith, we think it is necessary to protect the rights, property, or safety of Classcraft, our employees, our community, or others, or to prevent violations of our our Terms of Service or other agreements. This includes, without limitation, exchanging information with other companies and organizations for fraud protection or responding to government requests.
 
 Changes and Updates to the Privacy Policy
 -----------------------------------------
@@ -258,4 +259,6 @@ By accepting the Teacher License Agreement, Parent Terms of Use and/or Student T
 Contact
 -------
 
-Classcraft's service to its users and users' trust is of utmost importance to Classcraft. If users have any questions about this Privacy Policy, users should contact Classcraft at <wecare@classcraft.com>.
+Classcraft's service to its users and users' trust is of utmost importance to Classcraft. If users have any questions about this Privacy Policy, users should contact Classcraft at:
+
+*Email*: <wecare@classcraft.com>.
