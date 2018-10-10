@@ -4,13 +4,11 @@ IMPORTANT: IF YOU ARE UNDER THE AGE OF 18, YOU MUST HAVE YOUR PARENT OR GUARDIAN
 
 This Agreement (as herein defined) is a legal agreement between you, a student, together with Classcraft Studios Inc. ("Classcraft"), having its head office at Suite 220, 165 rue Wellington Nord, Sherbrooke, QC, J1H 5B9.
 
-Please read these terms of use carefully before using the Services (as herein defined) offered by Classcraft, which owns and operates the Website (as herein defined). By registering to use the Services in any manner, you agree that you have read and agree to be bound by and a party to the terms and conditions of this Agreement to the exclusion of all other terms. If you do not unconditionally agree to all the terms and conditions of the Agreement (as herein defined), you have no right to access or use the Services. Use of Services is expressly conditioned upon your assent to all the terms and conditions of this Agreement, to the exclusion of all other terms. If the terms of this Agreement are considered an offer, acceptance is expressly limited to such terms.
+Please read these terms of use carefully before using the Services (as herein defined) offered by Classcraft, which owns and operates the Website (as herein defined). BY REGISTERING TO USE THE SERVICES IN ANY MANNER, YOU AGREE THAT YOU HAVE READ AND AGREE TO BE BOUND BY AND A PARTY TO THE TERMS AND CONDITIONS OF THIS AGREEMENT TO THE EXCLUSION OF ALL OTHER TERMS. If you do not unconditionally agree to all the terms and conditions of the Agreement (as herein defined), you have no right to access or use the Services. Use of Services is expressly conditioned upon your assent to all the terms and conditions of this Agreement, to the exclusion of all other terms. If the terms of this Agreement are considered an offer, acceptance is expressly limited to such terms.
 
 You represent and warrant to Classcraft that (i) you are an individual and not a corporation; (ii) you are a student who wishes to use the Services; or (iii) all registration information you submit is accurate and truthful; and (iv) you will maintain the accuracy of such information. You also certify that you are legally permitted to use and access the Services and take full responsibility for the selection and use of and access to the Services. This Agreement is void where prohibited by law, and the right to access the Services is revoked in such jurisdictions.
 
-1.  Definitions
-
-    As used in this Agreement the following terms shall have the following definitions regardless whether used in their singular or plural form:
+1.  DEFINITIONS
 
     1.  "Agreement" shall mean these Student Terms of Service;
     2.  "Content" shall mean all materials displayed or performed as part of the Services, including but not limited to text, graphics, articles, photographs, images, illustrations;
