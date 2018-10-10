@@ -75,7 +75,7 @@ You represent and warrant to Classcraft that: (i) you are an individual and not 
     1.  For information regarding Classcraft's treatment of personally identifiable information, please review the Privacy Policy (located at this address: <http://www.classcraft.com/privacy-policy/>), which is hereby incorporated into this Agreement by reference.
 6.  Website Content & User Submissions
 
-    *Website Content*
+        *Website Content*
 
     1.  The Website and Content are intended solely for the educational use of Website users and may only be used in accordance with the terms of this Agreement. Content is protected by copyright and other intellectual property laws.
     2.  You shall abide by all copyright notices, trademark rules, information, and restrictions contained in any Content accessed through the Services, and shall not use, copy, reproduce, modify, translate, publish, broadcast, transmit, distribute, perform, upload, display, license, sell or otherwise exploit for any purposes whatsoever any Content or third party submissions or other proprietary rights not owned by you (i) without the express prior written consent of the respective owners, and (ii) in any way that violates any third party right.
