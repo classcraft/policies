@@ -106,4 +106,4 @@ You represent and warrant to Classcraft that (i) you are an individual and not a
     6.  Both parties agree that this Agreement is the complete and exclusive statement of the mutual understanding of the parties and supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of this Agreement, and that subject to Section 2.3, all modifications must be in a writing signed by both parties, except as otherwise provided herein.
     7.  This Agreement and any subsequent versions of this Agreement posted to the Website will be deemed a writing signed by both parties.
     8.  No agency, partnership, joint venture, or employment is created as a result of this Agreement and you do not have any authority of any kind to bind Classcraft in any respect whatsoever.
-    9.  The effective date of this version of this Agreement is August 1, 2018.
+    9.  The effective date of this version of this Agreement is November 13, 2018.
