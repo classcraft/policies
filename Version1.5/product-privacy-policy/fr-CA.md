@@ -1,0 +1,249 @@
+Studios Classcraft inc.
+
+# Politique de confidentialité relative au produit
+
+Studios Classcraft inc. (« **Classcraft** ») prend très au sérieux la confidentialité de ses utilisateurs, qui comprennent les élèves, les enseignants et les parents. Classcraft s’engage à protéger la vie privée de ses utilisateurs dans le cadre de l’offre, par son produit technologique pédagogique (le « **Produit** »), d’une expérience personnalisée et enrichissante.
+
+Classcraft s’est engagée par la version 2020 du Student Privacy Pledge (engagement pour la vie privée des élèves) afin de signaler son soutien des pratiques responsables de collecte et d’utilisation des données relatives aux élèves. Cet engagement prévoit notamment ce qui suit :
+
+-   Nous ne recueillons, stockons, traitons et partageons que les renseignements relatifs aux élèves qui sont nécessaires à des fins éducatives ou scolaires et autorisées par le parent ou l’élève.
+-   Nous ne vendons pas de renseignements personnels relatifs aux élèves.
+-   Nous n’utilisons et ne communiquons pas les renseignements relatifs aux élèves à des fins de publicités comportementales ciblées.
+-   Nous ne conservons pas de renseignements personnels relatifs aux élèves au-delà de la période nécessaire pour les fins éducatives ou scolaires en question.
+
+Vous pouvez lire la version complète de 2020 du Student Privacy Pledge [ici](https://studentprivacypledge.org/privacy-pledge-2-0/) [en anglais seulement].
+
+Les utilisateurs qui ont des questions au sujet de la présente politique de confidentialité (la « Politique ») peuvent communiquer avec Classcraft en écrivant au [wecare@classcraft.com](mailto:wecare@classcraft.com).
+
+## L’environnement scolaire
+
+Le terme « **Environnement scolaire** » sert à désigner, dans la présente Politique, la salle de classe, les enseignants et l’administration de l’école et du district scolaire.
+
+Puisque le Produit est conçu pour être utilisé en classe, une grande partie des renseignements collectés sont destinés à être communiqués dans le cadre de l’Environnement scolaire; par conséquent, les activités, les renseignements ou les communications concernant le Produit ou la Classe pourraient être visibles à toute personne présente dans la salle de classe. De plus, certains renseignements seront accessibles aux autres enseignants et aux administrateurs ou employés de l’école ou du district scolaire (voir la rubrique « Accès aux données des utilisateurs Classcraft » ci-dessous). Le partage des renseignements mentionnés ci-dessus est assujetti à la présente Politique et aux politiques de confidentialité des établissements d’enseignement en question. Si les utilisateurs ont des questions au sujet du partage de ces renseignements en vertu de ces dernières politiques, Classcraft leur suggère de communiquer avec l’établissement d’enseignement concerné.
+
+Classcraft a mis en œuvre des mesures de sécurité visant à assurer que ces données ne soient pas partagées à l’extérieur de l’Environnement scolaire, sauf de façon conforme à la présente Politique.
+
+## Renseignements recueillis
+
+1. ### Renseignements personnels
+
+    C’est le type d’utilisateur qui détermine les renseignements précis qui sont collectés (p. ex., enseignant, employé du district scolaire ou de l’école, ou élève). Vous pouvez consulter une liste des renseignements personnels collectés pour chaque type d’utilisateur du Produit [ici](https://files.classcraft.com/classcraft-assets/legal/pdf/fr/CC_RenseignementsRecueillis_2021-FR.pdf). Cette liste établit le type de renseignements collectés, la façon dont la collecte et l’utilisation des renseignements se font dans l’Environnement scolaire, si d’autres utilisateurs peuvent voir les renseignements et si les renseignements sont partagés hors de l’Environnement scolaire.
+
+    Classcraft **NE RECUEILLE PAS** les données suivantes :
+
+    - données biométriques physiologiques;
+    - données portant sur le statut des élèves relativement aux repas gratuits ou à prix réduit;
+    - listes de contacts ou d’amis des utilisateurs;
+    - adresses des élèves ou des parents.
+
+2. ### Témoins
+
+    Les témoins de connexion sont de petits fichiers de données qui sont communément stockés sur votre appareil lorsque vous visitez des sites Web et utilisez des services en ligne. Ils servent généralement à faire fonctionner les sites Web ou à en améliorer le fonctionnement, ainsi qu’à fournir des renseignements et aider avec la personnalisation. D’autres technologies semblables aux témoins (les « technologies de stockage local ») peuvent aussi stocker de petites quantités de données sur votre appareil.
+
+    Classcraft utilise les types suivants de témoins et de technologies de stockage local (ces deux technologies étant ensemble désignées par le terme « témoins » ci-après);
+
+    - Témoins de performance et de fonctionnalité : Ces témoins ne sont pas essentiels, mais nous aident à personnaliser et améliorer l’expérience de l’utilisateur. Par exemple : ils peuvent nous aider à nous souvenir de vos préférences, ou alors de votre identifiant et de votre mot de passe, pour que vous n’ayez pas à les saisir à nouveau chaque fois que vous utilisez nos services.
+
+    Le Produit n’utilise pas de témoins à des fins publicitaires.
+
+    Si vous souhaitez désactiver l’utilisation des témoins sur votre appareil, veuillez vous rendre dans le menu des préférences de votre navigateur, puis désactiver les témoins ou utilisez le mode privé lorsque vous utilisez nos services.
+
+## Ce que Classcraft fait des renseignements recueillis
+
+Classcraft ne recueille et n’utilise que des renseignements nécessaires pour s’acquitter de ses obligations ainsi que fournir et améliorer ses services. Plus précisément, les renseignements sont recueillis pour les fins suivantes :
+
+-   exploiter le Produit;
+-   permettre aux usagers de se connecter au Produit;
+-   permettre aux enseignants de gérer le Produit et d’interagir avec lui;
+-   permettre aux employés ou représentants des écoles d’attribuer des actions comportementales aux élèves;
+-   permettre aux camarades de classe d’utiliser le Produit;
+-   permettre le déroulement d’activités liées à la classe, comme la présentation de contenu de classe, l’attribution de devoirs ou de tâches, et les communications;
+-   permettre aux parents d’utiliser le Produit avec leurs enfants;
+-   permettre aux enseignants, aux élèves et aux parents de comparer le rendement d’un élève aux résultats agrégés obtenus par sa classe;
+-   fournir des données analytiques aux enseignants et aux administrateurs de l’école;
+-   à des fins de soutien logiciel et de soutien à la clientèle; et
+-   à des fins de vente et de facturation.
+
+Classcraft ne fait pas de publicité ou de marketing auprès des élèves ou de leurs parents. Aucun renseignement personnel concernant un élève ne sera utilisé à des fins de marketing.
+
+Classcraft ne communique pas de renseignements personnels à l’extérieur de l’Environnement scolaire, sauf aux fins établies dans le présent document, sans avoir préalablement obtenu le consentement écrit de la personne concernée.
+
+Les parents qui se connectent au Produit n’ont accès qu’aux renseignements personnels qui concernent leur enfant.
+
+Les renseignements collectés sous une forme agrégée, c’est-à-dire ceux qui ne permettent pas d’identifier des utilisateurs (les « données anonymisées »), sont utilisés pour les fins suivantes :
+
+-   amélioration du Produit;
+-   recherche et analyse statistique;
+-   marketing lié au Produit; et
+-   soutien à la clientèle.
+
+Pour créer les données anonymisées, tous les marqueurs directs et indirects de l’identité sont retirés. Ces marqueurs comprennent notamment le nom, l’identifiant d’utilisateur, la date de naissance et les renseignements de localisation. De plus, Classcraft s’engage à ne pas tenter de redonner à ces données leur caractère permettant l’identification, et à ne transférer ces données anonymisées à aucune autre partie qui refuse de s’engager de cette façon.
+
+## Accès aux données des utilisateurs Classcraft
+
+Tous les accès des utilisateurs au Produit ou les interactions entre eux dans le Produit prennent place dans l’Environnement scolaire et entre administrateurs de district scolaire ou d’école, employés ou représentants de district scolaire ou d’école, enseignants (dont des adjoints d’enseignement, des spécialistes du comportement ou d’autres employés de l’école), élèves et parents (collectivement, les « utilisateurs de confiance »).
+
+Les enseignants (y compris les enseignants eux-mêmes, les adjoints d’enseignement, les suppléants ou les autres employés de l’école qui travaillent auprès des élèves dans la classe) ont accès aux données des élèves dans leurs classes et aux données des parents de ces derniers. Les représentants de l’administration de l’école ou du district scolaire peuvent accéder aux données des enseignants et des élèves pour surveiller les activités se déroulant dans l’application ainsi que le comportement et l’assiduité des élèves. Les autres employés ou représentants de l’école dans l’Environnement scolaire (comme les surveillants de terrain de jeu et de couloir ou les chauffeurs d’autobus) peuvent disposer de privilèges limités dans l’application, par exemple celui d’accorder des points de récompense aux élèves, ce qui leur donne accès aux noms des élèves et à leurs noms d’utilisateur.
+
+Les élèves ont accès à leurs données personnelles, aux données de jeu de leur équipe, à tout le contenu publié par leur enseignant dans le système de contenu de classe, aux commentaires des autres élèves publiés dans le système de contenu de la classe, ainsi qu’à toute donnée qui est affichée par l’enseignant devant la classe en entier. Les élèves peuvent, par défaut, voir à partir de leur propre compte les événements du Produit auxquels participent les autres élèves de leur classe. Les enseignants peuvent cependant limiter l’information visible par les autres élèves : pour une classe donnée, les enseignants peuvent masquer les raisons expliquant le gain ou la perte de points et restreindre la visibilité aux coéquipiers d’un élève afin de leur permettre d’interagir avec le Produit.
+
+Les parents ont accès aux données relatives à leur enfant et à l’enseignant de celui-ci, ainsi qu’aux données agrégées qui concernent la classe de leur enfant.
+
+Vous pouvez consulter des renseignements détaillés concernant l’accès aux données des utilisateurs [ici](https://files.classcraft.com/classcraft-assets/legal/pdf/fr/CC_RenseignementsRecueillis_2021-FR.pdf).
+
+## Dossiers des élèves
+
+Les dossiers des élèves appartiennent à l’école, au district scolaire ou aux deux, et ils sont sous leur contrôle, le cas échéant. Les élèves peuvent accéder à leur dossier en se connectant à leur compte d’élèves. Les parents des élèves âgés de moins de 18 ans peuvent accéder aux renseignements de leur enfant par le biais du compte de parent en se connectant avec le compte de l’enfant, en communiquant avec son enseignant ou en écrivant Classcraft à l’adresse [wecare@classcraft.com](mailto:wecare@classcraft.com). Si des renseignements erronés doivent être corrigés, la question doit d’abord être portée à l’attention de l’enseignant ou de l’administration scolaire. Si l’enseignant ou l’école ne sont pas en mesure de faire la correction, les parents doivent en aviser Classcraft en écrivant à l’adresse [wecare@classcraft.com](mailto:wecare@classcraft.com), après quoi celle-ci collaborera avec l’enseignant ou l’école pour que l’information erronée soit corrigée.
+
+Les tiers n’ont pas accès à des renseignements personnels, à des dossiers scolaires ou à tout autre dossier d’élève, sauf de la façon prévue dans la présente Politique ou après avoir obtenu le consentement écrit du parent de l’élève en question, ou de l’élève lui-même s’il est âgé d’au moins 18 ans.
+
+Si Classcraft découvre qu’un dossier d’élève a été communiqué de façon non autorisée, elle doit, dans les trois jours suivants, en aviser par courriel l’école, l’enseignant, le parent et l’élève.
+
+## Pas de marketing auprès des élèves et des parents
+
+Classcraft ne communique pas de renseignements personnels à des tiers pour des fins marketing. De plus, Classcraft n’utilise les données d’élève pour aucune forme de marketing, notamment celui ciblant les élèves ou les parents. Pour en savoir plus au sujet de nos pratiques en matière de confidentialité dans le cadre de l’exploitation de notre site Web d’entreprise, veuillez consulter la Politique relative au site Web de Classcraft [ici](http://www.classcraft.com/fr/website-privacy-policy).
+
+## Suppression des dossiers d’élève et de parent
+
+Les dossiers d’élève sont supprimés 12 mois après la fin de leur dernière classe utilisant le Produit. Cette pratique permet aux élèves d’utiliser leur compte durant l’année scolaire suivante sans avoir à s’en créer un nouveau. Les dossiers de parent sont supprimés en même temps que ceux de leur enfant.
+
+Les parents et les élèves âgés de plus de 18 ans peuvent demander à Classcraft de supprimer de sa base de données, respectivement, le compte de leur enfant ou leur propre compte, ainsi que tous les renseignements s’y rapportant en écrivant à l’adresse [wecare@classcraft.com](mailto:wecare@classcraft.com).
+
+## Suppression des dossiers d’enseignant
+
+Les données personnelles des enseignants et tous les renseignements relatifs aux classes d’un enseignant sont supprimés au plus tard après deux ans d’inactivité du compte de l’enseignant.
+
+## Conformité réglementaire selon le territoire
+
+1. ### États-Unis d’Amérique
+
+    #### FERPA
+
+    L’acronyme FERPA désigne la loi fédérale américaine _Family Education Rights and Privacy Act_, qui vise à protéger la confidentialité des dossiers éducatifs des élèves. La loi FERPA confère aux parents certains droits relatifs aux dossiers éducatifs de leurs enfants mineurs. Parmi ces droits, on trouve le droit de passer en revue les dossiers éducatifs de l’élève tenus par l’école, ainsi que le droit de demander à une école de rectifier tout dossier éducatif que le parent estime inexact ou trompeur.
+
+    En outre, en vertu de la loi FERPA, les écoles doivent généralement obtenir la permission écrite d’un parent avant de communiquer tout renseignement tiré du dossier éducatif d’un élève, ce qui comprend l’ensemble des dossiers, des fichiers et des documents contenant de l’information concernant directement l’élève et qui sont conservés par un organisme ou un établissement d’enseignement, ainsi que les renseignements personnels contenus dans ces dossiers. Cependant, la loi FERPA permet aux écoles de communiquer sans consentement ces dossiers à certaines parties dans des situations particulières, notamment celles-ci (voir la disposition 34 CFR § 99.31) :
+
+    - à des représentants de l’école qui ont un intérêt éducatif légitime;
+    - à une autre école vers laquelle l’élève est transféré;
+    - à des représentants déterminés à des fins de vérification ou d’évaluation;
+    - à des parties appropriées dans le cadre de l’aide financière offerte à un élève;
+    - à des organisations qui réalisent certaines études pour l’école ou au nom de celle-ci;
+    - à des organisations d’agrément;
+    - pour se conformer à une ordonnance judiciaire ou à une assignation à comparaître légalement signifiée;
+    - à des représentants appropriés en cas d’urgence de nature médicale ou sécuritaire; et
+    - aux autorités étatiques et locales dans le cadre du système de justice pour mineurs, conformément à une loi étatique précise.
+
+    Les écoles peuvent aussi, sans consentement, communiquer des renseignements susceptibles d’être consignés dans un annuaire, par exemple le nom de l’élève, son adresse, son numéro de téléphone, sa date et son endroit de naissance, ses distinctions et ses récompenses, ainsi que les dates de fréquentation de l’établissement. Cependant, les écoles doivent informer les parents de ces renseignements d’annuaire et leur accorder une période suffisante pour leur permettre d’indiquer s’ils ne souhaitent pas la publication de cette information.
+
+    Bien que la loi FERPA vise principalement les établissements d’enseignement, Classcraft reconnaît jouer le rôle de « représentant de l’école » (_School Official_) avec un intérêt éducatif légitime en vertu de la FERPA; notre politique de confidentialité est conçue de façon à obtenir les données relatives aux élèves conformément à la loi FERPA et à permettre aux établissements d’enseignement qui utilisent Classcraft de respecter cette loi. Classcraft ne communique pas les dossiers éducatifs des élèves ou les renseignements de l’annuaire hors de l’Environnement scolaire.
+
+    #### COPPA
+
+    L’acronyme COPPA désigne la loi fédérale américaine _Child Online Privacy Protection Act_, qui vise à protéger la vie privée des enfants de moins de 13 ans. La loi COPPA exige que les fournisseurs de services en ligne comme Classcraft, ou les enseignants ou les écoles qui agissent comme mandataires d’un parent, fournissent une notification parentale et obtiennent un consentement parental vérifiable avant de recueillir sciemment des renseignements personnels auprès d’enfants de moins de 13 ans, sauf dans certaines situations précises (pour en savoir plus sur ces exceptions, veuillez consulter la disposition 16 CFR § 312.5(c)).
+
+    En vertu des conditions d’utilisation entre Classcraft et les utilisateurs du Produit ([https://www.classcraft.com/fr/terms-of-use](https://www.classcraft.com/fr/terms-of-use/#teacher)), les enseignants, ou l’école ou l’administration du district scolaire de l’enseignant doivent obtenir un consentement parental vérifiable si la loi COPPA l’exige. Classcraft fournit des renseignements aux enseignants, dont la notification directe COPPA (accessible à l’adresse [www.classcraft.com/fr/coppa-direct-notice](http://www.classcraft.com/fr/coppa-direct-notice)) et un modèle de formulaire de consentement parental, si nécessaire (accessible à l’adresse
+
+    [https://help.classcraft.com/hc/fr-ca/articles/218411437-Classcraft-and-COPPA](https://help.classcraft.com/hc/fr-ca/articles/218411437-Classcraft-et-COPPA)).
+
+    Si de tels Renseignements personnels sont recueillis en l’absence d’un consentement parental ou d’une façon qui dépasse la stricte portée nécessaire pour la participation relative au Produit, Classcraft supprimera ces renseignements le plus tôt possible. Si vous croyez que des renseignements ont été obtenus d’un Élève âgé de moins de 13 ans d’une façon contraire à la présente Politique, veuillez nous en aviser à l’adresse wecare@classcraft.com.
+
+    Veuillez lire les rubriques suivantes pour obtenir une description des types de renseignements personnels que nous recueillons, de la façon dont nous les recueillons, de la façon dont nous les utilisons et de nos politiques pour empêcher les tiers d’y accéder.
+
+    Classcraft prend très au sérieux les droits des enfants et des parents. C’est pourquoi :
+
+    - Classcraft n’exige pas à un enfant de communiquer plus d’information que ce qui est raisonnablement nécessaire pour utiliser le Produit dans l’Environnement scolaire.
+    - Les parents peuvent consulter les renseignements personnels de leur enfant, ordonner à Classcraft de les supprimer et refuser toute collection ou utilisation ultérieure de ceux-ci.
+    - Les parents peuvent consentir à la collecte des renseignements relatifs à leur enfant, mais ne pas permettre que Classcraft les communique à des tiers, sauf dans le cadre de son service.
+
+    Les parents peuvent communiquer avec Classcraft par les étapes décrites à la rubrique « Changements et accès aux renseignements personnels » ci-dessous.
+
+2. ### Union européenne
+
+    Depuis le 24 mai 2018, le _Règlement général sur la protection des données_ de l’Union européenne (RGPD) établit les règles relatives à la collecte, à l’utilisation et à la conservation des données personnelles des citoyens de l’Union européenne. Classcraft se conforme pleinement au RGPD.
+
+    Classcraft est une société par actions canadienne dont le siège se trouve à Sherbrooke, au Canada. Pour exploiter ses services, Classcraft peut recueillir, utiliser et conserver des données personnelles d’utilisateurs du Produit qui se trouvent dans l’Union européenne, le tout conformément à la présente Politique. La Commission européenne a décrété que les entités commerciales au Canada satisfont aux exigences du RGPD, ou encore fournissent déjà un niveau de protection adéquat des données. Si vous souhaitez consulter une liste à jour des pays qui fournissent un niveau de protection adéquat des données, veuillez visiter le [site de l’Union européenne](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_fr).
+
+    De plus, afin d’exploiter ses services, Classcraft fait affaire avec des sous-traitants tiers aux États-Unis, pays dans lequel sont stockés les renseignements personnels des utilisateurs du Produit, le tout conformément à la présente Politique. Par conséquent, quand Classcraft transfère des renseignements personnels hors de l’espace économique européen et vers un pays ou un cadre législatif n’assurant pas, selon la Commission européenne, un niveau de protection suffisant des données personnelles (ce qui comprend les États-Unis), ces transferts sont régis par des ententes de traitement des données qui sont conformes aux exigences de l’Union européenne en matière de protection des données.
+
+3. ### Québec
+
+    Les droits des utilisateurs au Québec sont régis par la _Loi sur la protection des renseignements personnels dans le secteur privé_. Il est possible d’accéder aux fichiers individuels et de les modifier en utilisant votre identifiant et votre mot de passe d’utilisateur, ou en suivant les instructions fournies ci-dessous à la rubrique « Changements et accès aux renseignements personnels ». Les bureaux de Classcraft se trouvent au 220-165, rue Wellington Nord, Sherbrooke (Québec)  J1H 5B9. Les données sont stockées sur les serveurs d’Amazon aux États-Unis, et Classcraft se conforme à l’article 17 de la \_Loi sur la protection des renseignements personnels dans le secteur privé \_relativement à l’utilisation des renseignements personnels.
+
+## Politique en matière de sécurité
+
+Classcraft utilise des méthodes conformes aux normes de l’industrie afin de protéger la confidentialité, la sécurité et l’intégrité des données de ses clients (dont les renseignements personnels au sujet des enfants) contre toute forme non autorisée d’utilisation, de consultation, de communication, de modification ou de perte, ainsi que de destruction illégale ou accidentelle. Nous faisons en sorte que ces données protégées sont chiffrées tant à l’arrêt qu’en transit, et qu’elles sont conservées ou supprimées uniquement de façon conforme à la présente Politique ou à toute entente ayant préséance conclue avec un organisme d’enseignement.
+
+Classcraft ne partage pas de façon informelle avec ses employés les données couvertes par la présente politique. Seuls les employés qui ont besoin des données protégées pour s’acquitter de leurs fonctions peuvent y accéder. Dans ces cas, c’est le principe du droit d’accès minimal qui s’applique, c’est-à-dire que chaque programme ou employé se voit accorder l’accès le plus restreint possible permettant la réalisation de ses tâches. Les employés qui ont accès à des données protégées reçoivent de la formation au sujet de leurs responsabilités lorsqu’ils traitent ces données et des diverses lois et ententes en matière de sécurité des données. Ces employés reçoivent aussi un identifiant d’utilisateur unique à des fins de reddition de comptes.
+
+Classcraft effectue périodiquement des évaluations des risques et des vulnérabilités, ainsi que des vérifications de conformité relatives à la confidentialité et à la sécurité des données. Classcraft doit rectifier rapidement toute vulnérabilité de sécurité qui est relevée. Nous avons également adopté un plan écrit de réaction aux incidents, qui prévoit l’envoi sans délai d’une notification à l’école ou au district scolaire en cas d’incident de sécurité ou de confidentialité, et qui établit les pratiques exemplaires en matière de réaction à la compromission de renseignements personnels. Nous pouvons envoyer ce plan de réaction aux incidents à toute personne qui nous en fait la demande.
+
+Bien que Classcraft s’engage à mettre en œuvre des pratiques exemplaires relatives à la sécurité de l’information et des données, il nous est impossible de garantir de façon totale la sécurité sur ce plan, puisque les technologies des virus et du piratage évoluent constamment et qu’il existe d’autres facteurs de risque, comme les défaillances imprévisibles touchant le matériel ou les logiciels. Par conséquent, Classcraft ne peut être tenue responsable des pertes ou des altérations de données. Classcraft notifiera par courriel tout utilisateur d’une brèche de sécurité le touchant dans les trois jours suivant la découverte de la situation.
+
+Si vous souhaitez en savoir plus sur nos mesures de sécurité ou obtenir une copie de notre politique en matière de sécurité des données, veuillez nous écrire à l’adresse wecare@classcraft.com.
+
+## Tiers
+
+1. ### Liens vers des services tiers
+
+    Les enseignants et les élèves peuvent publier des messages contenant des liens vers des services tiers, et ce, dans de plusieurs sections de Classcraft. Entre autres exemples communs, ces liens peuvent mener à des vidéos hébergées par YouTube ou Vimeo, ou alors vers Wikipédia et d’autres sources de référence. C’est la responsabilité de l’enseignant de s’assurer que ce contenu est approprié et que les liens ne mènent pas à des sites qui menacent la vie privée de ses élèves. Le logiciel Classcraft offre des fonctionnalités permettant aux enseignants de surveiller et de contrôler tout le contenu publié par les élèves de leur classe. De plus, les élèves peuvent signaler les commentaires inappropriés dans Classcraft, ce qui notifie automatiquement leur enseignant. Classcraft ne surveille pas de façon active le contenu publié dans les salles de classe et n’assume aucune responsabilité en lien avec celui-ci.
+
+2. ### Intégration de logiciels tiers
+
+    Des logiciels tiers peuvent être intégrés à Classcraft (par exemple, Google Classroom, Microsoft et Canvas). Classcraft n’est pas responsable du contenu, des politiques ou des agissements de ces sites Web, qui sont totalement indépendants de Classcraft et qui ne sont pas couverts par la présente Politique.
+
+    Classcraft fournit aussi aux utilisateurs la possibilité de s’inscrire et de se connecter au Produit avec l’authentification unique grâce à un logiciel offert par un tiers comme Google, ClassLink, Microsoft, Facebook et Clever. Si vous choisissez d’accéder au Produit avec l’authentification unique, Classcraft peut échanger avec le service d’authentification des renseignements personnels à votre sujet, selon vos paramètres de confidentialité auprès de ce service. Classcraft recueillera et stockera ces renseignements de façon entièrement conforme à la présente politique. Avant d’utiliser un service d’authentification pour vous connecter à Classcraft, nous vous recommandons de vous familiariser avec ses conditions d’utilisation ainsi qu’avec ses politiques et paramètres de confidentialité.
+
+    Vous pouvez consulter [ici](https://files.classcraft.com/classcraft-assets/legal/pdf/fr/CC_PartenairesTiersIntegration_2021-FR.pdf) une liste de ces intégrations de logiciels tiers qui présente les services qu’ils fournissent à Classcraft, les renseignements partagés entre eux et nous, leurs politiques de confidentialité et leurs coordonnées.
+
+3. ### Fournisseurs de services tiers
+
+    Classcraft peut faire appel à des fournisseurs de services tiers de confiance en lien avec le Produit, et ce afin de nous aider à fournir, à maintenir et à améliorer nos services. À cette fin, Classcraft peut partager des renseignements avec ces fournisseurs, mais seulement dans la mesure nécessaire pour la prestation de nos services et conformément à nos besoins, à la présente Politique et à l’ensemble des autres ententes, lois ou exigences en matière de confidentialité.
+
+    Vous pouvez consulter [ici](https://files.classcraft.com/classcraft-assets/legal/pdf/fr/CC_FournisseursServicesTiers_2021_FR.pdf) une liste de ces fournisseurs qui présente les services qu’ils fournissent à Classcraft, les renseignements partagés entre eux et nous, leurs politiques de confidentialité et leurs coordonnées.
+
+## Changements et accès aux renseignements personnels 
+
+Les utilisateurs peuvent accéder à leurs renseignements personnels par le biais de leur compte d’utilisateur Classcraft ou en communiquant avec l’enseignant ou l’administration de l’école.
+
+Les utilisateurs peuvent aussi demander une copie de leurs renseignements personnels ou modifier tout renseignement erroné en écrivant à l’adresse [wecare@classcraft.com](mailto:wecare@classcraft.com). Le message doit indiquer les éléments suivants :
+
+-   prénom et nom de famille;
+-   adresse courriel
+-   numéro de téléphone;
+-   nom de la classe et école;
+-   nom de l’élève, identifiant d’utilisateur ou nom d’utilisateur;
+-   nom de l’enseignant.
+
+Un représentant de Classcraft communiquera ensuite avec l’utilisateur pour vérifier son identité.
+
+Les utilisateurs peuvent aussi corriger et mettre à jour leurs renseignements personnels par la méthode décrite ci-dessus.
+
+## Changement de contrôle
+
+Si tout ou partie de Classcraft ou de ses actifs venait à être acquis par un tiers ou fusionné avec lui, les renseignements personnels que nous avons recueillis des utilisateurs feraient partie des actifs transférés à ce tiers ou acquis par lui. La présente Politique continue de s’appliquer à vos renseignements, et l’acquéreur serait dans l’obligation de traiter ceux-ci conformément aux présentes, à moins que vous n’ayez consenti à ce qu’une nouvelle politique s’applique. Nous vous informerons d’une telle acquisition dans les trente (30) jours suivant la clôture de la transaction, soit en en faisant l’annonce sur la page d’accueil de notre site ou en vous envoyant un courriel à l’adresse que vous nous avez fournie. Si vous refusez que vos renseignements personnels soient utilisés par une l’entreprise qui succède à Classcraft, vous pouvez demander à cette dernière de les supprimer.
+
+Dans l’éventualité peu probable que Classcraft fasse faillite, tous les renseignements des utilisateurs seront supprimés de façon sécuritaire dans les 12 mois suivant la faillite.
+
+## Communication de renseignements personnels exigée par la loi
+
+Nous pouvons communiquer des renseignements personnels si nous pensons, de bonne foi, qu’il est nécessaire de le faire pour se conformer à la loi, notamment à une assignation à comparaître ou à toute autre procédure judiciaire. Nous pourrions aussi devoir communiquer des renseignements personnels si nous pensons, de bonne foi, qu’il est nécessaire de le faire pour protéger les droits, les biens ou la sécurité de Classcraft, de nos employés, de notre communauté ou de toute autre personne, ou alors pour prévenir des violations de nos conditions d’utilisation ou de tout autre contrat. Ces communications comprennent l’échange d’information avec d’autres entreprises et organisations à des fins de protection contre la fraude ou pour répondre à des demandes du gouvernement.
+
+## Changements et mises à jour de la politique de confidentialité
+
+La présente Politique entre en vigueur le 1er août 2021, et il s’agit de la version 1.5. Classcraft peut, à son entière discrétion, mettre à jour ou modifier la présente Politique. Si nous modifions cette Politique ou les conditions d’utilisation qui s’y rattachent, nous publierons un avis qui s’affichera la prochaine fois que vous vous connecterez au Produit, ou nous vous enverrons directement par courriel une copie des documents modifiés, avant que ces modifications n’entrent en vigueur. La politique de confidentialité mise à jour et les conditions d’utilisation seront aussi publiées sur notre site Web d’entreprise. Classcraft demande aux utilisateurs de prendre connaissance de la version à jour de la politique de confidentialité ou des conditions d’utilisation. Si un utilisateur n’accepte pas la nouvelle version de la politique de confidentialité, il peut annuler son abonnement conformément aux conditions d’utilisation. Le fait pour l’utilisateur de continuer à utiliser les services fournis par Classcraft après l’entrée en vigueur de la nouvelle politique de confidentialité constitue son acceptation de celle-ci.
+
+## Consentement à la collecte et au traitement des renseignements
+
+En acceptant les conditions d’utilisation, les utilisateurs déclarent explicitement qu’ils permettent de leur propre gré à Classcraft de recueillir, de traiter et d’utiliser les renseignements personnels indiqués dans la présente Politique, de la façon qui y est précisée. Les utilisateurs déclarent aussi être conscients des raisons pour lesquelles Classcraft recueille, traite et utilise ces renseignements, de la manière dont ces renseignements sont recueillis, de la manière dont la confidentialité des utilisateurs est protégée et du choix qu’ont les utilisateurs de retirer leur consentement.
+
+## Coordonnées
+
+Classcraft accorde la plus haute importance au service qu’elle fournit à ses utilisateurs et à la confiance de ceux-ci. Les utilisateurs qui ont des questions au sujet de la présente Politique peuvent communiquer avec Classcraft aux coordonnées suivantes :
+
+Nom : Studios Classcraft inc.
+
+Adresse : 220-165, rue Wellington Nord, Sherbrooke (Québec) J1H 5B9
+
+Téléphone : 888 992-8101
+
+Courriel : [wecare@Classcraft.com](mailto:wecare@Classcraft.com)
