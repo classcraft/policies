@@ -27,12 +27,9 @@ Classcraft has implemented security measures to ensure that this data will not b
 
 1. ### Personal Information
 
-
     The specific information collected depends on the user type (i.e. teacher, district/school staff, parent, and student users). A list of the personal information collected for each user type of the Product, including the type of information collected, how the information is collected and used within the School Environment, whether other users can view the information, and whether the information is shared outside of the School Environment, is available [here](https://files.classcraft.com/classcraft-assets/legal/pdf/en/CC_InformationCollected_2021-EN.pdf).
 
-
     Classcraft **DOES NOT** collect the following data:
-
 
     - Physiological biometric data;
     - Information on free or reduced lunch status;
@@ -41,18 +38,13 @@ Classcraft has implemented security measures to ensure that this data will not b
 
 2. ### Cookies
 
-
     Cookies are small data files that are commonly stored on your device when you use websites and online services. They are widely used to make websites work, or to work more efficiently, as well as to provide reporting information and assist with services or personalization. There are also other technologies that are similar to cookies, which may store small amounts of data on your device (“local storage”).
-
 
     Classcraft uses the following types of cookies and local storage (collectively called “Cookies” herein):
 
-
     - Performance and functionality Cookies: These Cookies are not essential, but help us to personalize and enhance your user experience. For example, they may help us to remember your preferences and prevent you from needing to re-enter information more than once, or to remember your id and password so that you do not have to enter them each time you use our services.
 
-
     The Classcraft Product does not use cookies for advertising purposes.
-
 
     If you wish to disable the use of Cookies, you may do so from the browser preferences menu of your browser software by either turning off Cookies or by using your browser’s privacy mode when using our services.
 
@@ -125,15 +117,11 @@ Personal data of teachers and any data not already deleted that is related to a 
 
 1. ### United States of America
 
-
     #### FERPA
-
 
     FERPA is an acronym for the Family Education Rights and Privacy Act, a US federal law to protect the privacy of student educational records. FERPA gives parents certain rights with respect to their non-adult children's education records. These rights include the right to inspect and review the student's education records maintained by the school, as well the right to request that a school correct records which they believe to be inaccurate or misleading.
 
-
     Furthermore, under FERPA, schools generally must have written permission from the parent in order to release any information from a student's education record, which includes records, files, documents, and other materials that contain information directly related to a student and are maintained by an educational agency/institution, or the personally identifiable information contained within those records. However, FERPA allows schools to disclose those records, without consent, to various parties under specified conditions, including the following (see 34 CFR § 99.31):
-
 
     - School officials with legitimate educational interest;
     - Other schools to which a student is transferring;
@@ -145,51 +133,39 @@ Personal data of teachers and any data not already deleted that is related to a 
     - Appropriate officials in cases of health and safety emergencies; and
     - State and local authorities, within a juvenile justice system, pursuant to specific State law.
 
-
     Schools may also disclose, without consent, "directory" information such as a student's name, address, telephone number, date and place of birth, honors and awards, and dates of attendance. However, schools must tell parents about directory information and allow parents a reasonable amount of time to request that the school not disclose directory information about them.
-
 
     While this act is primarily directed towards educational institutions, Classcraft recognizes its role as a “School Official” with a legitimate educational interest under FERPA, and our privacy policy is designed to secure student data in compliance with FERPA and to allow education institutions using Classcraft to be compliant with FERPA. Classcraft does not disclose student educational records or directory information outside of the School Environment.
 
-
     #### COPPA
-
 
     COPPA is an acronym for the Child Online Privacy Protection Act, a US federal law to protect the privacy of children under the age of 13. COPPA requires that online service providers such as Classcraft, or teachers/schools acting as a parent’s agent, provide parental notification and obtain parental consent before knowingly collecting personal/individually identifiable information from children under the age of 13, except in limited situations (for exceptions to this consent requirement, please see 16 CFR § 312.5(c)).
 
+    Pursuant to the Terms of Use between Classcraft and the users of the Classcraft Product ([https://www.classcraft.com/terms-of-use](https://www.classcraft.com/terms-of-use/#teacher)), teachers, or a teacher’s school or district administration, will obtain verifiable parental consent, should it be required under COPPA. Classcraft provides information for teachers, including COPPA Direct Notice (available at [www.classcraft.com/coppa-direct-notice](http://www.classcraft.com/coppa-direct-notice)) and a sample parental permission document should they require one (available at:
 
-    Pursuant to the Terms of Use between Classcraft and the users of the Classcraft Product ([https://www.classcraft.com/terms-of-use](https://www.classcraft.com/terms-of-use/#teacher)), teachers, or a teacher’s school or district administration, will obtain verifiable parental consent, should it be required under COPPA. Classcraft provides information for teachers, including COPPA Direct Notice (available at [www.classcraft.com/coppa-direct-notice](http://www.classcraft.com/coppa-direct-notice)) and a sample parental permission document should they require one (available at: [https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA](https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA)).
-
+    [https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA](https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA)).
 
     If such personal information is collected without parental consent or collected beyond the scope needed for participation in the Classcraft Product, Classcraft will delete such information as soon as possible. If you believe that information from a student under the age of 13 has been provided in violation of these terms, please contact us at wecare@classcraft.com.
 
-
     Please review the foregoing sections for descriptions of the types of personal information we collect; how we collect that information; how that information is used; and our policies on protecting that information from third party access.
 
-
     Classcraft takes the rights of children and parents very seriously. To this end:
-
 
     - Classcraft won’t require a child to disclose more information than is reasonably necessary to participate using the Product within the School Environment;
     - Parents can review their child’s personal information, direct Classcraft to delete it, and refuse to allow any further collection or use of their child’s information; and
     - Parents can agree to the collection and use of their child’s information, but still not allow disclosure to third parties unless it is part of the service.
 
-
     Parents may contact Classcraft following the procedures outlined in the “Changes and Access to Personal Information” section below.
 
 2. ### European Union
 
-
     Since May 24, 2018, the European Union General Data Protection Regulation (GDPR) has defined the rules regarding the collection, use, and retention of personal information for citizens of the European Union (EU). Classcraft is fully compliant with these rules.
 
-
     Classcraft is a Canadian corporation with its headquarters in Sherbrooke, Canada. In order to operate its services, and in accordance with this Privacy Policy, Classcraft may collect, use, and retain personal information from users of the Classcraft Product who are based in the EU. The European Commission has ruled that commercial entities in Canada have adequacy under the GDPR, or already provide adequate data security. For an updated listing of countries where data security is considered adequate, please visit the [European Commission’s website](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
-
 
     Furthermore, in order to operate its services, and in accordance with this Privacy Policy, Classcraft also conducts business with third-party data processors in the United States, where personal information for users of the Classcraft Product is stored. Accordingly, when Classcraft transfers personal information outside of the European Economic Area to a country or framework not determined by the European Commission as providing sufficient protection for personal information, including the United States, such transfers will be governed by data processing agreements that comply with European Union data protection requirements.
 
 3. ### Quebec
-
 
     Rights of users located in Quebec are governed by the Act Respecting the Protection of Personal Information in the Private Sector. Individual files can be accessed and modified using your user login and password, or by following the instructions in the section of this document titled “Changes to and Access to Personal Information.” Classcraft offices are at #220 – 165 Wellington N., Sherbrooke, QC, J1H 5B9. Data is stored on Amazon servers in the United States and Classcraft abides by article 17 of the Act with respect to the use of personal information.
 
@@ -209,25 +185,19 @@ For additional information about our security measures and for a copy of our Dat
 
 1. ### Third Party Links
 
-
     Teachers and students may make postings that contain links to third party services in various sections of Classcraft. Common examples of this would be links to videos hosted by YouTube or Vimeo, links to Wikipedia or other reference material, and so on. It is the responsibility of the teacher to ensure that this content is appropriate and free from links to sites which may compromise the privacy of their students. The Classcraft software has features within it to allow teachers to monitor and control all content posted by the students in their class. Furthermore, students may flag inappropriate comments from within Classcraft and their teacher will be automatically notified. Classcraft does not actively monitor classroom content and has no responsibility for this content.
 
 2. ### Third Party Integrations
 
-
     Third Party software may be integrated with Classcraft (such as Google Classroom, Microsoft, and Canvas). Classcraft has no responsibility for the content, policies, or actions of these websites and they are entirely separate from Classcraft and are not covered by this Privacy Policy.
 
-
     Classcraft also provides users with the option of registering/logging into the Product with single sign-on authentication through Third Party software such as Google, ClassLink, Microsoft, Facebook and Clever. If you choose to access our Product through single sign-on authentication, Classcraft may exchange personal information such as the user’s email address with the authentication service, depending on your privacy settings with that service. Classcraft will only collect and store such information in accordance with this policy. We recommend familiarizing yourself with any authentication service’s terms of use and privacy settings and policies before using such services to connect to Classcraft.
-
 
     A list of these Third Party Integrations, including the services they provide to Classcraft, the information we share with them or they share with us, their privacy policies, and their contact information, can be found [here](https://files.classcraft.com/classcraft-assets/legal/pdf/en/CC_ThirdPartyIntegrationPartners_2021-EN.pdf).
 
 3. ### Third Party Service Providers
 
-
     Classcraft may use trusted Third Party Service Providers to support our Product by assisting us with providing, maintaining, and improving our services. To this end, Classcraft may share information with these providers, but only to the extent necessary to provide our services, and only in accordance with our needs, this Privacy Policy, and all other applicable privacy agreements, laws, and/or requirements.
-
 
     A list of these Providers, including the services they provide to Classcraft, the information we share with them or they share with us, their privacy policies, and their contact information, can be found [here](https://files.classcraft.com/classcraft-assets/legal/pdf/en/CC_ThirdPartyServiceProviders_2021-EN.pdf).
 
@@ -260,7 +230,7 @@ Classcraft may disclose personal information if we have a good faith belief that
 
 ## Changes and Updates to the Privacy Policy
 
-This Privacy Policy is effective as of October 1, 2021 and is version 1.5. Classcraft may, at its sole discretion, update, revise, modify, and/or supplement from time to time this Privacy Policy. Should we make modifications to this policy or the related User Agreement, we’ll post a notice that you will receive when you login to the Product and/or we will send an email directly to you with a copy of the new documents prior to adopting any such modifications. Classcraft’s updated Privacy Policy and User Agreements will also be posted on Classcraft’s corporate website. Classcraft asks users to review the updated Privacy Policy and/or User Agreements before continuing to use our services. If users do not accept the updated Privacy Policy, users can cancel their subscriptions in accordance with the Terms of Use. The user’s continued use of the services provided by Classcraft after the updated Privacy Policy takes effect will constitute the user's acceptance of the updated Privacy Policy.
+This Privacy Policy is effective as of August 1, 2021 and is version 1.5. Classcraft may, at its sole discretion, update, revise, modify, and/or supplement from time to time this Privacy Policy. Should we make modifications to this policy or the related User Agreement, we’ll post a notice that you will receive when you login to the Product and/or we will send an email directly to you with a copy of the new documents prior to adopting any such modifications. Classcraft’s updated Privacy Policy and User Agreements will also be posted on Classcraft’s corporate website. Classcraft asks users to review the updated Privacy Policy and/or User Agreements before continuing to use our services. If users do not accept the updated Privacy Policy, users can cancel their subscriptions in accordance with the Terms of Use. The user’s continued use of the services provided by Classcraft after the updated Privacy Policy takes effect will constitute the user's acceptance of the updated Privacy Policy.
 
 ## Consent to the Gathering and Processing of Information
 
@@ -270,7 +240,10 @@ By accepting the Terms of Use, users are expressly giving Classcraft a special d
 
 Classcraft’s service to its users and users’ trust is of utmost importance to Classcraft. If users have any questions about this Privacy Policy, users should contact Classcraft at:
 
-Name: Classcraft Studios Inc<br />
-Address: 165 Wellington North, Suite 220, Sherbrooke, QC, J1H 5B9 CANADA<br />
-Phone: 888-992-8101<br />
+Name: Classcraft Studios Inc
+
+Address: 165 Wellington North, Suite 220, Sherbrooke, QC, J1H 5B9 CANADA
+
+Phone: 888-992-8101
+
 Email: [wecare@Classcraft.com](mailto:wecare@Classcraft.com)

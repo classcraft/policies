@@ -1,6 +1,4 @@
-# Ley de Protección de la Privacidad en Línea para Niños (COPPA)
-
-**Ley de Protección de la Privacidad en Línea para Niños (COPPA): NOTIFICACIÓN DIRECTA A LAS INSTITUCIONES EDUCATIVAS QUE ACTÚAN COMO REPRESENTANTES DE LOS PADRES O TUTORES DE MENORES DE 13 AÑOS CON RESPECTO AL USO DEL PRODUCTO DE CLASSCRAFT POR PARTE DE LOS MENORES**
+# Ley de Protección de la Privacidad en Línea para Niños (COPPA): NOTIFICACIÓN DIRECTA A LAS INSTITUCIONES EDUCATIVAS QUE ACTÚAN COMO REPRESENTANTES DE LOS PADRES O TUTORES DE MENORES DE 13 AÑOS CON RESPECTO AL USO DEL PRODUCTO DE CLASSCRAFT POR PARTE DE LOS MENORES
 
 Con fundamento en la Ley de Protección a la Privacidad Infantil en Línea de los Estados Unidos (COPPA, por sus siglas en inglés), los proveedores de servicios en línea, como Classcraft, deben notificar a los padres o tutores y obtener su autorización antes de recopilar la información personal de menores de 13 años, salvo en contadas situaciones (para conocer las excepciones a este requisito de autorización, consulte [16 CFR § 312.5(c)](https://www.law.cornell.edu/cfr/text/16/312.5)).
 
@@ -43,7 +41,10 @@ Como parte de sus buenas prácticas, Classcraft recomienda a las instituciones e
 
 No dude en contactarnos si tienen alguna duda o inquietud.
 
-Classcraft Studios Inc<br />
-165 Wellington North, Suite 220, Sherbrooke, QC, J1H 5B9 CANADA<br />
-888-992-8101<br />
+Classcraft Studios Inc
+
+165 Wellington North, Suite 220, Sherbrooke, QC, J1H 5B9 CANADA
+
+888-992-8101
+
 [wecare@Classcraft.com](mailto:wecare@Classcraft.com)

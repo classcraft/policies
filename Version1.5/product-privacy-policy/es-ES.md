@@ -141,7 +141,9 @@ Los datos personales de los docentes y cualquier otra información que no se hay
 
     COPPA es el acrónimo de la Ley de Protección de la Privacidad en Línea para Niños, una ley federal de los Estados Unidos cuyo objetivo es proteger la privacidad de los niños menores de 13 años de edad. COPPA requiere que los proveedores de servicios en línea, como Classcraft, o los docentes/escuelas que actúen como representantes de los padres o tutores, le entreguen una notificación a los padres o tutores y consigan la autorización parental necesaria antes de intencionalmente obtener información personal/personal identificable de los menores de 13 años, salvo bajo circunstancias limitadas (para conocer las excepciones a este requisito de autorización, consulte 16 CFR § 312.5(c)).
 
-    De conformidad con los Términos de Uso entre Classcraft y los usuarios del Producto de Classcraft ([https://www.classcraft.com/es-es/terms-of-use](https://www.classcraft.com/es-es/terms-of-use/#teacher)), los docentes, o la administración de la escuela o del distrito escolar del docente, debe obtener una autorización parental verificable si así lo requiere la COPPA. Classcraft proporciona información a los docentes, incluida la Notificación directa sobre la COPPA (disponible en [www.classcraft.com/es-es/coppa-direct-notice](http://www.classcraft.com/es-es/coppa-direct-notice)) y una muestra del permiso parental, en caso de que necesiten uno (disponible en: [https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA](https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA)).
+    De conformidad con los Términos de Uso entre Classcraft y los usuarios del Producto de Classcraft ([https://www.classcraft.com/es-es/terms-of-use](https://www.classcraft.com/es-es/terms-of-use/#teacher)), los docentes, o la administración de la escuela o del distrito escolar del docente, debe obtener una autorización parental verificable si así lo requiere la COPPA. Classcraft proporciona información a los docentes, incluida la Notificación directa sobre la COPPA (disponible en [www.classcraft.com/es-es/coppa-direct-notice](http://www.classcraft.com/es-es/coppa-direct-notice)) y una muestra del permiso parental, en caso de que necesiten uno (disponible en:
+
+    [https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA](https://help.classcraft.com/hc/en-us/articles/218411437-Classcraft-and-COPPA)).
 
     Si se obtiene dicha información personal sin la autorización parental, o se obtiene mayor información que la que se requiere para participar en el Producto de Classcraft, Classcraft eliminará dicha información a la brevedad. Si usted considera que se ha proporcionado la información de un menor de 13 años en contravención de estos términos, envíenos un correo electrónico a wecare@classcraft.com.
 
@@ -238,7 +240,10 @@ Al aceptar los Términos de Uso, los usuarios proporcionan expresamente a Classc
 
 Los servicios que Classcraft presta a sus usuarios y la confianza que depositan en nosotros es extremadamente importante para Classcraft. Si los usuarios tienen alguna pregunta sobre esta Política de Privacidad, pueden contactar a Classcraft en:
 
-Nombre: Classcraft Studios Inc<br />
-Domicilio: 165 Wellington North, Suite 220, Sherbrooke, QC, J1H 5B9 CANADA<br />
-Teléfono: 888-992-8101<br />
+Nombre: Classcraft Studios Inc
+
+Domicilio: 165 Wellington North, Suite 220, Sherbrooke, QC, J1H 5B9 CANADA
+
+Teléfono: 888-992-8101
+
 Dirección de correo electrónico: [wecare@Classcraft.com](mailto:wecare@Classcraft.com)
